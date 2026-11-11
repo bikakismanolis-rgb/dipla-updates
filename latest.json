@@ -1,12 +1,12 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "electron": "45.2.3",
-  "date": "2026-11-11T12:47:30.132Z",
-  "notes": "Επιπλέον προστασία (sandbox) στα Windows",
+  "date": "2026-11-11T12:57:11.179Z",
+  "notes": "Η μπάρα εργαλείων μένει όσο πας προς τα κουμπιά της",
   "full": null,
   "asar": {
-    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.6.1.asar",
-    "sha256": "32f44df1d4c4ff63d69f57779733ced44351eba00487f03ef8eefee878c3ad4f",
-    "size": 2135506
+    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.6.2.asar",
+    "sha256": "d64f25173040aac95c4c3dfffc27af2f0244c6e41ee63ebc8ba14550030ce0d6",
+    "size": 2135745
   }
 }
