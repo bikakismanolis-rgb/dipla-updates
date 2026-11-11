@@ -1,12 +1,12 @@
 {
-  "version": "0.4.3",
+  "version": "0.5.0",
   "electron": "45.2.3",
-  "date": "2026-11-11T11:10:57.904Z",
-  "notes": "Δοκιμαστική ενημέρωση",
+  "date": "2026-11-11T11:45:35.524Z",
+  "notes": "Αυτόματη πρόσβαση: ξεκινά με τα Windows και μοιράζεται μόνο του",
   "full": null,
   "asar": {
-    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.4.3.asar",
-    "sha256": "e98be99d964da144dcb9b8bb717935bd5fea12f1a7789921a320912e79b724cd",
-    "size": 2079137
+    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.5.0.asar",
+    "sha256": "e7309657ef80a2da116646deb1a016d65b1ad1f77f338e1be6d3800ae577825e",
+    "size": 2091172
   }
 }
