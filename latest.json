@@ -1,12 +1,12 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "electron": "45.2.3",
-  "date": "2026-11-11T10:36:49.374Z",
-  "notes": "Διόρθωση: δεν κολλάει πια όταν πατάς minimize στο Dipla του άλλου υπολογιστή",
+  "date": "2026-11-11T11:00:57.595Z",
+  "notes": "Αθόρυβες ενημερώσεις: χωρίς μαύρα παράθυρα, χωρίς κόλλημα",
   "full": null,
   "asar": {
-    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.4.1.asar",
-    "sha256": "be7fb4c330591280aac5ff408b8af6713d66bc786461b5f63797c22888c4b393",
-    "size": 2077789
+    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.4.2.asar",
+    "sha256": "7f498bc396f2bed3d2fc5f5a7985cfb4c9a61f00c0572dcbf0107dddc2eab704",
+    "size": 2079137
   }
 }
