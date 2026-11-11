@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "electron": "45.2.3",
-  "date": "2026-11-11T12:39:30.053Z",
-  "notes": "Αρχεία, κοινό πρόχειρο, οι υπολογιστές μου, βελτιώσεις ασφαλείας",
+  "date": "2026-11-11T12:47:30.132Z",
+  "notes": "Επιπλέον προστασία (sandbox) στα Windows",
   "full": null,
   "asar": {
-    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.6.0.asar",
-    "sha256": "208b48308a19bd23a02238fc3b1169523c0855e40dfd21be7696e49f133d5856",
-    "size": 2135238
+    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.6.1.asar",
+    "sha256": "32f44df1d4c4ff63d69f57779733ced44351eba00487f03ef8eefee878c3ad4f",
+    "size": 2135506
   }
 }
