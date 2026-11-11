@@ -1,0 +1,12 @@
+{
+  "version": "0.4.0",
+  "electron": "45.2.3",
+  "date": "2026-11-11T09:58:53.163Z",
+  "notes": "Αυτόματες ενημερώσεις",
+  "full": null,
+  "asar": {
+    "url": "https://raw.githubusercontent.com/bikakismanolis-rgb/dipla-updates/main/files/app-0.4.0.asar",
+    "sha256": "a3347136fce00e2e4573e9b66af2a6d48355dc5d6e21e0294cc8bdf22f769406",
+    "size": 2068436
+  }
+}
